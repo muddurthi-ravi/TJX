@@ -1,4 +1,4 @@
-thank you
+
 1. Tell me about yourself and your experience in manual software testing.
 (Take a moment to talk about your background, skills, and specific testing projects you've worked on.)
 
