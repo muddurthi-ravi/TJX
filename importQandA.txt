@@ -1,0 +1,49 @@
+thank you
+1. Tell me about yourself and your experience in manual software testing.
+(Take a moment to talk about your background, skills, and specific testing projects you've worked on.)
+
+2. What is the difference between functional testing and non-functional testing?
+(Explain the differences, provide examples of each, and maybe mention how you’ve worked on them in your past projects.)
+
+3. Can you walk me through a typical software testing lifecycle?
+(You can describe the phases involved and your role in each phase. For example, test planning, test design, test execution, and reporting.)
+
+4. What types of testing have you been involved with in your previous projects (e.g., smoke testing, regression testing, UAT, etc.)?
+(Describe the different types of testing you've done and any specific scenarios where you applied them.)
+
+5. How do you approach creating test cases? What key elements do you consider?
+(Walk through your process for writing test cases, including what information is crucial to include, such as test inputs, expected results, preconditions, and postconditions.)
+
+6. How do you ensure that your test cases are effective and comprehensive?
+(Explain how you make sure your test cases cover all scenarios, edge cases, and requirements, and how you ensure that no critical tests are overlooked.)
+
+7. Can you explain what is a "bug life cycle"?
+(Describe the stages a bug goes through from discovery to resolution. Mention states like New, Assigned, Fixed, Retested, and Closed.)
+
+8. Have you ever encountered a situation where you could not reproduce a defect? How did you handle it?
+(Describe a situation where a defect could not be reproduced and how you investigated it. Did you ask for more details, check logs, or work with the development team?)
+
+9. What are the differences between Severity and Priority in defect management? Can you give an example of each?
+(Explain how severity refers to the impact of a defect on functionality, and priority refers to how soon the defect should be fixed. You can give examples like a minor UI issue being low severity but high priority in some cases.)
+10. How do you handle situations when there is insufficient information to test a feature or functionality?
+(Describe how you seek clarification from developers, business analysts, or stakeholders to gather the necessary information to proceed with testing.)
+11. What is your approach to testing web applications versus mobile applications? Are there any differences in how you test them?
+(Discuss specific differences in testing web apps vs. mobile apps, such as screen resolutions, touch gestures, performance under varying network conditions, etc.)
+12. How do you manage time when testing under tight deadlines? How do you prioritize which tests to run?
+(Explain how you prioritize critical tests, such as those that affect functionality, business logic, or high-risk areas, and how you balance thoroughness with time constraints.)
+13. Can you describe a time when you identified a critical defect during testing? How did you report it, and what steps did you take to ensure it was resolved?
+(Share an example of when you found a significant defect, how you communicated it to the team, and what actions were taken to fix the issue.)
+14. How do you handle situations when you disagree with a developer regarding the severity or resolution of a defect?
+(Describe how you handle conflicts or disagreements with the development team while ensuring the issue is resolved in a professional and constructive way.)
+15. Can you explain what "Regression Testing" is and when it should be performed?
+(Explain regression testing in the context of ensuring new changes don't negatively affect existing functionality. Mention when it's typically performed — after bug fixes, enhancements, or new features.)
+16. What tools have you used in your testing work, if any? Have you used any test management tools?
+(Discuss any tools you’ve worked with, such as test management tools like JIRA, TestRail, or quality management platforms. Also mention if you’ve worked with bug tracking or version control tools.)
+17. How do you track and report defects? What information do you include in a bug report?
+(Talk about your process for logging defects, ensuring they contain sufficient details such as steps to reproduce, expected and actual results, screenshots, and environment details.)
+18. Can you explain the difference between "Sanity Testing" and "Smoke Testing"?
+(Provide a clear explanation of both: Smoke Testing is a basic check to see if the application is stable enough for more detailed testing, while Sanity Testing ensures that specific functionality works after a change.)
+19. How do you ensure the software is ready for User Acceptance Testing (UAT)?
+(Discuss your role in preparing the software for UAT, such as ensuring all requirements are met, testing is complete, and no critical issues remain.)
+20. Finally, why do you think manual testing is important even in the age of automation?
+(Give your perspective on why manual testing still plays a key role in areas like exploratory testing, user experience testing, and cases where automation isn't feasible.)
